@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @aylonsk
+- 👀 I’m interested in broadening my CS knowledge.
+- 🌱 I’m currently learning Data Structures.
+- email: akiralonske@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like Cake Batter Ice Cream.
