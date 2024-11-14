@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aylonsk
 - 👀 I’m interested in broadening my CS and AI knowledge.
-- 🌱 Currently Learning: Data Structures
-- ⚙️ Current Project: Powerlyze Android App
+- 🌱 Currently Learning: Python/JS
+- ⚙️ Current Project: HumorHealer AI Model
 - email: akiralonske@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like Cake Batter Ice Cream.
