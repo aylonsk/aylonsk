@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aylonsk
 - 👀 I’m interested in broadening my CS and AI knowledge.
-- 🌱 Currently Learning: Python/JS
+- 🌱 Currently Learning: HTML/CSS
 - ⚙️ Current Project: HumorHealer AI Model
 - email: akiralonske@gmail.com
 - 😄 Pronouns: he/him
