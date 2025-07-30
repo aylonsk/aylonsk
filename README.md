@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @aylonsk
 - 👀 I’m interested in broadening my CS and AI knowledge.
-- 🌱 Currently Learning: HTML/CSS
-- ⚙️ Current Project: HumorHealer AI Model
+- ⚙️ Current Project: Altera Labs -  AI Cognitive Partner
 - email: akiralonske@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I like Cake Batter Ice Cream.
