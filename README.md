@@ -2,4 +2,3 @@
 - 👀 I’m interested in broadening my CS and AI knowledge.
 - ⚙️ Current Project: Altera Labs -  AI Cognitive Partner
 - email: akiralonske@gmail.com
-- ⚡ Fun fact: I like Cake Batter Ice Cream.
