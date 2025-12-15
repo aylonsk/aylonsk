@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @aylonsk
 - 👀 I’m interested in broadening my CS and AI knowledge.
-- ⚙️ Current Project: Altera Labs -  AI Cognitive Partner
+- ⚙️ Current Project: [Altera Labs -  AI Cognitive Partner](https://altera-labs.com/)
 - email: akiralonske@gmail.com
