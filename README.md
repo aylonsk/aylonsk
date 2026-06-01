@@ -14,7 +14,6 @@ I'm a Johns Hopkins computer science and applied math/statistics student buildin
 - [Altera Labs](https://altera-labs.com/) - Full-stack AI tutoring platform with production LLM agents, mastery modeling, Canvas classroom pilots, and cloud deployment across React/TypeScript, Python, Firebase, Google Cloud, and Supabase.
 - [Oasis Emotion Prediction](https://github.com/aylonsk/oasis-emotion-prediction) - Python ML pipeline that predicts human valence/arousal from OASIS image color composition and semantic categories using scikit-learn, PyTorch, NumPy, and cross-validation.
 - [Powerlyze](https://github.com/aylonsk/Powerlyze) - Native Swift/SwiftUI iOS app for powerlifting performance analysis, progress visualization, and local workout data workflows.
-- [HumorHealer](https://github.com/aylonsk/HumorHealer) - Full-stack AI web app exploring empathetic conversational support with a React frontend, Python backend, and OpenAI API integration.
 
 ## Contact
 
